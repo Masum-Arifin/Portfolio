@@ -1,0 +1,74 @@
+.banner {
+  background-color: rgb(185, 185, 185);
+}
+
+.banner-column {
+  background-color: rgb(36, 36, 78);
+}
+
+.nav-port {
+  top: 0;
+  padding-left: 390px;
+  position: sticky;
+  z-index: 2;
+}
+
+.about-container {
+  background-color: #00bdbd;
+}
+
+.education-container {
+  background-color: #eeeeee;
+}
+.redtype {
+  color: #f88;
+}
+
+.redtype:hover {
+  color: black;
+}
+
+.circle {
+  background-color: #f88;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.project-container {
+  background-color: #2bb3dd;
+}
+
+.img {
+  margin: 50%;
+}
+
+.form-container {
+  background-color: #474d5d;
+}
+.inner-form {
+  background-color: #585f73;
+}
+
+.footer {
+  background-color: rgb(236, 102, 53);
+}
+.circlef {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: white;
+  font-size: 35px;
+  text-align: center;
+  color: rgb(34, 33, 99);
+}
+.circlef:hover {
+  background-color: #474d5d;
+}
+.project-text {
+  text-decoration: none;
+}
+.font-awesome {
+  text-decoration: none;
+}
